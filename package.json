@@ -1,0 +1,39 @@
+{
+  "name": "vue-manage-system",
+  "version": "4.2.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm run serve",
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "babel-polyfill": "^6.26.0",
+    "docxtemplater": "^3.19.7",
+    "docxtemplater-image-module-free": "^1.1.1",
+    "element-ui": "^2.11.0",
+    "file-saver": "^2.0.5",
+    "gantt-elastic": "^1.0.12",
+    "gantt-elastic-header": "^0.1.11",
+    "iview": "^3.5.4",
+    "jszip": "^3.5.0",
+    "jszip-utils": "^0.1.0",
+    "mavon-editor": "^2.6.17",
+    "pizzip": "^3.0.6",
+    "vue": "^2.6.10",
+    "vue-cropperjs": "^3.0.0",
+    "vue-gantt-schedule-timeline-calendar": "^3.0.44",
+    "vue-i18n": "^8.10.0",
+    "vue-quill-editor": "^3.0.6",
+    "vue-router": "^3.0.7",
+    "vue-schart": "^2.0.0",
+    "vue-session": "^1.0.0",
+    "vuedraggable": "^2.17.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.9.0",
+    "@vue/cli-service": "^3.9.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
