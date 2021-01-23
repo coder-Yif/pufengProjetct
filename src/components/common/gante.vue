@@ -32,7 +32,7 @@ function init() {
     const chart = new Chart({
         container: 'container',
         autoFit: true,
-        height: 100
+        height: 500
     });
 
     chart.data(data);
